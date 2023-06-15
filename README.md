@@ -36,3 +36,19 @@ I am Vivek Chauhan    </h2>
 </p>
 
 
+## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40">  &nbsp;**Tools:**
+<p align="left">
+<a href="https://git-scm.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="cplusplus" width="40" height="40" />  
+</a>	&nbsp;
+<a href="https://github.com/Abhishek-00" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">    
+</a>	&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a>	&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>	&nbsp;
+</p>
+
+
+<br/>
+<hr/>
