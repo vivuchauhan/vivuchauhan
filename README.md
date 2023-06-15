@@ -61,6 +61,11 @@ I am Vivek Chauhan    </h2>
   <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivuchauhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
+
+<p align="center">
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vivuchauhan&theme=dark&hide_border=false"/>
+</p>
+
 <br/>
 <hr/>
 
