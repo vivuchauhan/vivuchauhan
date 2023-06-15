@@ -52,3 +52,43 @@ I am Vivek Chauhan    </h2>
 
 <br/>
 <hr/>
+
+## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
+
+<p align="center">
+<a href="https://github.com/vivuchauhan">
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=vivuchauhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivuchauhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+<br/>
+<hr/>
+
+## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vivekchauhanvlogs/" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+</a>  
+<a href="https://www.instagram.com/vivekchauhanvlogs/" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+</a>
+<a href="mailto:vivuchauhan333@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+<br/>
+<hr/>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+
+
+<br/>
